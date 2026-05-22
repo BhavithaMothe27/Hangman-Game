@@ -5,20 +5,30 @@ A simple and interactive text-based Hangman Game built using Python. In this gam
 ✨ Features
 
 Uses 5 predefined words
+
 Random word selection using Python’s random module
+
 Tracks correct and incorrect guesses
+
 Maximum of 6 wrong attempts
+
 Simple and beginner-friendly console interface
+
 No external libraries, graphics, or APIs required
 
 
 🛠️ Concepts Used
 
 random
+
 while loops
+
 if-else conditions
+
 Strings
+
 Lists
+
 User input handling
 
 
