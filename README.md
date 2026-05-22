@@ -3,6 +3,7 @@ A simple and interactive text-based Hangman Game built using Python. In this gam
 
 
 ✨ Features
+
 Uses 5 predefined words
 Random word selection using Python’s random module
 Tracks correct and incorrect guesses
@@ -12,6 +13,7 @@ No external libraries, graphics, or APIs required
 
 
 🛠️ Concepts Used
+
 random
 while loops
 if-else conditions
@@ -20,5 +22,5 @@ Lists
 User input handling
 
 
-🎯 Objective
+🎯 Objective                                                                                                                                                                                                                         
 Guess the hidden word before running out of attempts and win the game!
